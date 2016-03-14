@@ -15,4 +15,4 @@ You should import the library and call the method gravatar, in this method you s
     $ print(profile)
 
 # Suggestion
-Tell me about any error or suggestion please _welserjr: https://twitter.com/welserjr
+Tell me about any error or suggestion please [welserjr](https://twitter.com/welserjr)
