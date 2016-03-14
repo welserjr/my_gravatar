@@ -14,3 +14,5 @@ You should import the library and call the method gravatar, in this method you s
     $ profile = gravatar('<email>')
     $ print(profile)
 
+# Suggestion
+Tell me about any error or suggestion please _welserjr: https://twitter.com/welserjr
